@@ -23,9 +23,9 @@ This awesome repository contains papers of debiasing in machine learning and rel
   * Li et al. ICCV. 2023.
 * **"Revisiting the importance of amplifying bias for debiasing."** 
   * Lee et al. AAAI. 2023.
-*  **"Enhancing Intrinsic Features for Debiasing via Investigating Class-Discerning Common Attributes in Bias-Contrastive Pair."**
+* **"Enhancing Intrinsic Features for Debiasing via Investigating Class-Discerning Common Attributes in Bias-Contrastive Pair."**
   * Park et al. CVPR. 2024.
-* **"Navigate Beyond Shortcuts: Debiased Learning through the Lens of Neural Collapse."** 
+* **"Navigate Beyond Shortcuts: Debiased Learning through the Lens of Neural Collapse."**
   * Wang et al. ICCV. 2024.
 * **"DeNetDM: Debiasing by Network Depth Modulation."** 
   * Sreelatha et al. NeurIPS. 2024.
